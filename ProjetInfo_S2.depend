@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1490492088 source:c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\bateau.cpp
+	"Bateau.h"
+
+1490540470 c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\bateau.h
+	<vector>
+	"string"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1490540437 source:c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\croiseur.cpp
+	"Croiseur.h"
+
+1490540470 c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\croiseur.h
+	"Bateau.h"
+
+1490540435 source:c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\cuirasse.cpp
+	"Cuirasse.h"
+
+1490540470 c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\cuirasse.h
+	"Bateau.h"
+
+1490540434 source:c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\destroyer.cpp
+	"Destroyer.h"
+
+1490540470 c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\destroyer.h
+	"Bateau.h"
+
+1490539709 source:c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\jeu.cpp
+	"Jeu.h"
+	"Sous-Marin.h"
+	"Destroyer.h"
+	"Croiseur.h"
+	"Cuirasse.h"
+
+1490492088 c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\jeu.h
+	"Bateau.h"
+	"vector"
+	<iostream>
+
+1490540470 c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\sous-marin.h
+	"Bateau.h"
+
+1490492088 source:c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\main.cpp
+	<iostream>
+	"Jeu.h"
+
+1490540433 source:c:\users\alexandre\desktop\villeteam-casaproject-95213c75f0c7\sous-marin.cpp
+	"Sous-Marin.h"
+
+1490540437 source:c:\users\alexandre\desktop\projetinfo_s2\croiseur.cpp
+	"Croiseur.h"
+
+1490540470 c:\users\alexandre\desktop\projetinfo_s2\croiseur.h
+	"Bateau.h"
+
+1490546320 c:\users\alexandre\desktop\projetinfo_s2\bateau.h
+	<vector>
+	"string"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1490540435 source:c:\users\alexandre\desktop\projetinfo_s2\cuirasse.cpp
+	"Cuirasse.h"
+
+1490540470 c:\users\alexandre\desktop\projetinfo_s2\cuirasse.h
+	"Bateau.h"
+
+1490540434 source:c:\users\alexandre\desktop\projetinfo_s2\destroyer.cpp
+	"Destroyer.h"
+
+1490540470 c:\users\alexandre\desktop\projetinfo_s2\destroyer.h
+	"Bateau.h"
+
+1490492088 source:c:\users\alexandre\desktop\projetinfo_s2\main.cpp
+	<iostream>
+	"Jeu.h"
+
+1490746273 c:\users\alexandre\desktop\projetinfo_s2\jeu.h
+	"Bateau.h"
+	"vector"
+	<iostream>
+
+1490747026 source:c:\users\alexandre\desktop\projetinfo_s2\sous-marin.cpp
+	"Sous-Marin.h"
+
+1490540470 c:\users\alexandre\desktop\projetinfo_s2\sous-marin.h
+	"Bateau.h"
+
+1490546320 source:c:\users\alexandre\desktop\projetinfo_s2\bateau.cpp
+	"Bateau.h"
+
+1490746730 source:c:\users\alexandre\desktop\projetinfo_s2\jeu.cpp
+	"Jeu.h"
+	"Sous-Marin.h"
+	"Destroyer.h"
+	"Croiseur.h"
+	"Cuirasse.h"
+
